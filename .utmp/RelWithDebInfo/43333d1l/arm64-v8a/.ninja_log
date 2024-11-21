@@ -1,0 +1,12 @@
+# ninja log v5
+172	708	7538634354282752	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	6273952841f65ca6
+710	1096	7538634358352880	D:/03 Hyundai Construction Unity Project/1. Base Project/(Example 04) AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/43333d1l/obj/arm64-v8a/libswappywrapper.so	ebf47a4ca6f4e58e
+69	1704	7538634364224364	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	ba0303005bc4eb08
+29	1708	7538634364304252	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	95d43d540003b4d
+126	1764	7538634364918948	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	bfbaab3f6a379d6e
+146	1790	7538634365207051	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	26fbda5be6d2f965
+105	1829	7538634365537538	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	782c6df54af7f3bc
+49	1938	7538634366558916	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	b410e4b7c870d73
+88	2121	7538634368596606	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	df42f21993d473c4
+5	2233	7538634369722723	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	f2949fbe4fbe6aa2
+2233	2384	7538634371260049	D:/03 Hyundai Construction Unity Project/1. Base Project/(Example 04) AR Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/43333d1l/obj/arm64-v8a/libgame.so	d5c4e91143ca1377

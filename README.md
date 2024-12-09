@@ -1,4 +1,4 @@
-This is the fourth sample developed for the Hyundai Engineering & Construction Technology Academy lecture.
+This is a sample developed for the Hyundai Engineering & Construction Technology Academy lecture.
 
 - Description : View robot animations in AR through a smartphone environment.
 - Vuforia URL : https://developer.vuforia.com/downloa...](https://developer.vuforia.com/downloads/sdk
